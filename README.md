@@ -40,7 +40,7 @@ Across all sources n = 75 datasets were identified (Del Guidice: 20, JAEB: 38, I
 |[PSO4_Public_Dataset.zip](https://public.jaeb.org/dataset/578)|[8]|NCT01823341|PSO4|2013|82|4–14|Type 1|42 nights|~2k|Medtronic Enlite|MiniMed Paradigm Veo|
 |[PSO3_Public_Dataset.zip](https://public.jaeb.org/dataset/577)|[9]|NCT01591681|PSO3|2012|45|15–45|Type 1|42 nights|~1k|Medtronic Enlite|MiniMed Paradigm Veo|
 |[PSO1_Public_Dataset.zip](https://public.jaeb.org/dataset/576)|[10]|NCT01736930|PLOS1|2012|20|18–56|Type 1|21 nights|~200|Medtronic Guardian|MiniMed 670G|
-|[CTR_Public_Dataset.zip](https://public.jaeb.org/dataset/580)|[11]|NCT01271023|CTR|2011|53|12–65|Type 1|2 days|106|Dexcom SEVEN Plus|Insulet OmniPod|
+|[CTR_Public_Dataset.zip](https://public.jaeb.org/dataset/580)|[11]|NCT01271023|CTR|2011|53|12–65|Type 1|2 days|~100|Dexcom SEVEN Plus|Insulet OmniPod|
 |[T1DEXIP DOI](https://public.jaeb.org/dataset/590)|[12]|?|T1DexiP|2021|255|14 ± 2|Type 1||10 days|~2.5k|MDI; Omnipod DASH; Tandem t:Slim X2; Medtronic 770G|
 |[T1DEXI DOI](https://public.jaeb.org/dataset/589)|[13]|?|T1DEXI|2020|497|37 (18–70)|Type 1|4 weeks|~14k|Dexcom (89%), Medtronic, Abbott|Tandem; Medtronic; MDI|
 |[Loop study public dataset 2023-01-31.zip](https://public.jaeb.org/dataset/560)|[14]|NCT03838900|Loop Observational Study|2019|558|1–71|Type 1|6 months|~100k|Dexcom; Medtronic|Medtronic; Insulet Omnipod|
