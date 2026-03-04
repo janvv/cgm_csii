@@ -3,11 +3,11 @@
 ### Database Sources
 This dataset review provides a comprehensive list of publicly available diabetes datasets including both continuous glucose monitoring (CGM) and continuous subcutaneous insulin infusion pump data (CSII). These two datatypes are deemed essential for computer modeling and simulation (CM&S).
 
-We used the review by Del Giudice (2025)1 as the starting point because it is recent and applies eligibility criteria closely aligned with our objective of identifying openly accessible dynamic glycemic datasets. Some of the studies identified in the review by Del Guidice included datasets from the JAEB(2) and IrinaStatsLab Awesome-CGM(3) databases. These databases are well maintained but were not fiully included in the review by Del Guidice. We therefore screened both dataset databases, which led to both confirmation of previously identified studies and identification of additional datasets.
+We used the review by Del Giudice (2025)(1) as the starting point because it is recent and applies eligibility criteria closely aligned with our objective of identifying openly accessible dynamic glycemic datasets. Some of the studies identified in the review by Del Guidice included datasets from the JAEB (2) and IrinaStatsLab Awesome-CGM (3) databases. These databases are well maintained but were not fiully included in the review by Del Guidice. We therefore screened both dataset databases, which led to both confirmation of previously identified studies and identification of additional datasets.
 
-(1) Del Giudice, L.L., Piersanti, A., Göbl, C., Burattini, L., Tura, A., Morettini, M., 2025. Availability of Open Dynamic Glycemic Data in the Field of Diabetes Research: A Scoping Review. J Diabetes Sci Technol 19322968251316896. [https://doi.org/10.1177/19322968251316896](https://doi.org/10.1177/19322968251316896)
-(2) https://public.jaeb.org/datasets/diabetes
-(3) https://github.com/IrinaStatsLab/Awesome-CGM/wiki
+(1) Del Giudice, L.L., Piersanti, A., Göbl, C., Burattini, L., Tura, A., Morettini, M., 2025. Availability of Open Dynamic Glycemic Data in the Field of Diabetes Research: A Scoping Review. J Diabetes Sci Technol 19322968251316896. [https://doi.org/10.1177/19322968251316896](https://doi.org/10.1177/19322968251316896)  
+(2) https://public.jaeb.org/datasets/diabetes  
+(3) https://github.com/IrinaStatsLab/Awesome-CGM  
 
 ### Inclusion Criteria
 We are building on top of the eligibility criteria from Del Guidice:
