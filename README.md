@@ -1,4 +1,4 @@
-# Public Diabetes Datasets with CGM and CSII
+# Publicly available Type 1 Diabetes Datasets with CGM and CSII data
 
 ### Database Sources
 This dataset review provides a comprehensive list of publicly available diabetes datasets including both continuous glucose monitoring (CGM) and continuous subcutaneous insulin infusion pump data (CSII). These two datatypes are deemed essential for computer modeling and simulation (CM&S).
@@ -17,12 +17,13 @@ We are building on top of the eligibility criteria from Del Guidice:
 >**Exclusion Criteria**  
 >This analysis excluded scientific articles, websites, and clinical trials: (1) that do not contain any type of data set; (2) that contain an unavailable data set or a data set available upon payment of subscription fees; (3) in which the data of interest are mainly expressed as a fasting glucose or glycated hemoglobin A1c (HbA1c) as a single value, being very often collected within a basic routine examination and also as secondary variables (ie, belonging to a data set whose primary aim is not collecting glycemic data useful for diabetesrelated research). This latter criterion was necessary to exclude data sets with some diabetes-related information but with limited usefulness for novel diabetes-related research, being them likely already exploited in the original studies for which they were collected.
 
-We further narrowed the exclusion criteria:  
-- Studies without both CGM and CSII data
-- Nondiabetic and Animal studies
+The exclusion criteria were further tightened to exclude:  
+- None Type 1 diabetes studies  
+- Datasets without both CGM and CSII data
+- Nondiabetic and Animal studies    
 - In-clinic challenge studies (e.g. OGTT and IVGTT)
-  - Table 1 from Del Guidice Review paper was excluded altogetehr from the search as it only included challenge tests.
-- Parallel pharmacological intervention (e.g. parallel metformin intervention)
+  - Note: Table 1 from Del Guidice Review paper was excluded altogetehr from the search as it only included challenge tests.  
+- Parallel pharmacological intervention (e.g. parallel metformin intervention)  
 - CGM without regulatory approval (e.g. excluding studies using GlucoWatch G2) 
 
 ### Results
@@ -41,8 +42,8 @@ Across all sources n = 75 datasets were identified (Del Guidice: 20, JAEB: 38, I
 |[PSO3_Public_Dataset.zip](https://public.jaeb.org/dataset/577)|[9]|NCT01591681|PSO3|2012|45|15–45|Type 1|42 nights|~1k|Medtronic Enlite|MiniMed Paradigm Veo|
 |[PSO1_Public_Dataset.zip](https://public.jaeb.org/dataset/576)|[10]|NCT01736930|PLOS1|2012|20|18–56|Type 1|21 nights|~200|Medtronic Guardian|MiniMed 670G|
 |[CTR_Public_Dataset.zip](https://public.jaeb.org/dataset/580)|[11]|NCT01271023|CTR|2011|53|12–65|Type 1|2 days|~100|Dexcom SEVEN Plus|Insulet OmniPod|
-|[T1DEXIP DOI](https://public.jaeb.org/dataset/590)|[12]|?|T1DexiP|2021|255|14 ± 2|Type 1||10 days|~2.5k|MDI; Omnipod DASH; Tandem t:Slim X2; Medtronic 770G|
-|[T1DEXI DOI](https://public.jaeb.org/dataset/589)|[13]|?|T1DEXI|2020|497|37 (18–70)|Type 1|4 weeks|~14k|Dexcom (89%), Medtronic, Abbott|Tandem; Medtronic; MDI|
+|[T1DEXIP DOI](https://public.jaeb.org/dataset/590)|[12]|?|T1DexiP|2021|255|14 ± 2|Type 1|10 days|~2.5k|Dexcom, G6| MDI; Omnipod DASH; Tandem t:Slim X2; Medtronic 770G|
+|[T1DEXI DOI](https://public.jaeb.org/dataset/589)|[13]|?|T1DEXI|2020|497|37 (18–70)|Type 1|4 weeks|~14k|Dexcom (89%); Medtronic; Abbott|Tandem; Medtronic; MDI|
 |[Loop study public dataset 2023-01-31.zip](https://public.jaeb.org/dataset/560)|[14]|NCT03838900|Loop Observational Study|2019|558|1–71|Type 1|6 months|~100k|Dexcom; Medtronic|Medtronic; Insulet Omnipod|
 |[DCLP5_Dataset_2022-01-20.zip](https://public.jaeb.org/dataset/535)|[15]|NCT03844789|iDCL Pediatric|2019|101|6–13|Type 1|16 weeks|~11k|Dexcom G6|Tandem t:Slim X2 Control-IQ|
 
