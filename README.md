@@ -30,7 +30,7 @@ Across all sources n = 75 datasets were identified (Del Guidice: 20, JAEB: 38, I
 
 |**Dataset**|**Ref**|**Trial ID**|**Study**|**Year**|**N**|**Age (years)**|**Type**|**Duration**|**Patient Days**|**CGM**|**Pump**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|[IOBP2 RCT Public Dataset.zip](https://public.jaeb.org/dataset/579)|[1]|NCT04200313|The Insulin-Only Bionic Pancreas Pivotal Trial: Testing the iLet in Adults and Children With Type 1 Diabetes|2022|440|6–71|Type 1|13 weeks|~40k|Dexcom G6|Minimed 670G, 780G; Tandem t:slim X2 Control-IQ; Insulet Omnipod; MDI|
+|[IOBP2 RCT Public Dataset.zip](https://public.jaeb.org/dataset/579)|[1]|NCT04200313|IOBP2|2022|440|6–71|Type 1|13 weeks|~40k|Dexcom G6|Minimed 670G, 780G; Tandem t:slim X2 Control-IQ; Insulet Omnipod; MDI|
 |https://data.mendeley.com/datasets/3hbcscwz44/1|[2]|?|HUPA-UCM diabetes dataset|2024|25|40.50 ± 11.43; 37.63 ± 12.80|Type 1|14 days|~350|FreeStyle Libre 2|Medtronic; Roche|
 |[Anderson et al.](https://public.jaeb.org/jdrfapp2/stdy/465)|[3]|NCT02137512|CTR3|2015|30|18+|Type 1|6–9 weeks|~1–2k|Dexcom G4 Platinum|Roche Accu-Chek|
 |[Replace-BG Dataset.zip](https://public.jaeb.org/dataset/546)|[4]|NCT02258373|REPLACE-BG|2015|225|25–40|Type 1|6 months|~40k|Dexcom G4|Various|
