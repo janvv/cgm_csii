@@ -1,4 +1,5 @@
 # Publicly available Type 1 Diabetes Datasets with CGM and CSII data
+```Author: Jan Wrede, Copyright (c) 2026 Jan Wrede```
 
 ### Database Sources
 This dataset review provides a comprehensive list of publicly available diabetes datasets including both continuous glucose monitoring (CGM) and continuous subcutaneous insulin infusion pump data (CSII). These two datatypes are deemed essential for computer modeling and simulation (CM&S).
